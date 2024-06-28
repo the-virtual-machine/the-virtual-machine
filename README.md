@@ -5,9 +5,6 @@ Hi! I'm the_virtual_machine, and I love live coding with Sonic Pi. Join me on my
 ## Connect with Me
 
 - **Website**: [thevirtualmachine.live](https://thevirtualmachine.live)
-- **YouTube**: [the_virtual_machine](https://www.youtube.com/channel/your-channel-id)
-- **Instagram**: [the_virtual_machine](https://www.instagram.com/the_virtual_machine)
-- **TikTok**: [the_virtual_machine](https://www.tiktok.com/@the_virtual_machine)
 
 ## About My Live Coding
 
