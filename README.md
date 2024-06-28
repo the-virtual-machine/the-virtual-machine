@@ -4,7 +4,7 @@ Hi! I'm the_virtual_machine, and I love live coding with Sonic Pi. Join me on my
 
 ## Connect with Me
 
-- **Website**: [thevirtualmachine.live](https://thevirtualmachine.live)
+- **Links to platforms**: [thevirtualmachine.live](https://thevirtualmachine.live)
 
 ## About My Live Coding
 
